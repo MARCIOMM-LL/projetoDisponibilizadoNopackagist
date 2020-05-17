@@ -1,0 +1,5 @@
+{
+    "require": {
+        "miranda/buscador-cursos": "^1.0"
+    }
+}
